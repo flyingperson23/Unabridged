@@ -1,5 +1,5 @@
 ### What's This?
-This repository serves as a config repository and issue tracker for my modpack, Unabridged. There are different branches for the different versions of the pack, if you wish to contribute make sure you have the right branch selected. If submitting an issue, make sure you fill out the issue template fully so I know which version of the pack you're using.
+This repository serves as a config repository and issue tracker for my modpack, Unabridged V: Remastered. This is a rework of Unabridged V for 1.12, with some custom recipes and the like added. Please submit all issues here. Keep in mind that this is quite a large pack. I will try my best to ensure that your computer can run it, but if you happen to own a literal potato, please do not submit issues such as "IT WONT LOAD AND IT HAZ THE SPINNY ERRORY THINGY" or "HOW DOES I TURN IT ON I PLUGGED THE POWER CORD IN BUT IT DIDN'T DO ANYTHING IT'S STILL A POTATO ON MY DESK HELP I CAN'T FIGURE IT OUT WITH MY SINGLE BRAIN CELLLLLLLLLLLLLL!!!!!!!!"
 
 
 ```
